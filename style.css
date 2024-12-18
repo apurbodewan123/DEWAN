@@ -11,8 +11,7 @@ li{
 
 nav{
 
-    background-color: darkslategray; overflow: hidden;  width:100%;margin-top:0;
-
+    background-color: darkslategray; overflow: hidden;  width:100%;margin-top:0; 
 }
 
 a{
@@ -162,13 +161,3 @@ h3{
 }
 
 
-footer{
-    text-align:center;
-    position:relative;
-    bottom:0;
-    width: 100%;
-    background-color: black;
-    padding: 10px 0;
-
-   
-}
